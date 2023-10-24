@@ -5,6 +5,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   <br />
   <br />
-<img width="500" height="300" src="Images/msnlaugh.gif" alt="MSN Laughing emoji">
+<img width="50" height="40" src="Images/msnlaugh.gif" alt="MSN Laughing emoji">
   <br />
   <br />
