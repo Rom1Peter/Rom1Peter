@@ -13,7 +13,3 @@
    <img width="250" height="150" src="Images/ilove.gif">
 </div>
 
-  <p align="center">
-    <img width="250" height="150" src="Images/dolphin2.gif">
-    <p>stats</p>
-    <img width="250" height="150" src="Images/dolphin.gif">
